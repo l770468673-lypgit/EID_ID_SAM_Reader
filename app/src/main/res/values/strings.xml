@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EID_ID_SAM_Reader</string>
+    <string name="welcome">欢迎选乘福州公交</string>
+    <string name="swipe">请刷卡</string>
+    <string name="see_cam">请您正视摄像头</string>
+    <string name="compare_OK">比对成功，请通过</string>
+    <string name="compare_fail">请您使用本人乘车卡乘车</string>
+    <string name="sorry">抱歉</string>
+
+    <string name="title_activity_idverify">IDVerifyActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
